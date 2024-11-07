@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/e6d85609-430e-40bb-8cff-2f33e69a0652)
+
+
 ## This dashboard helps retail stakeholders understand customer engagement, optimize product mix, and improve outlet performance.
 
 
